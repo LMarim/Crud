@@ -1,0 +1,27 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+
+body{
+    display: flex;
+}
+.central{
+    height: fit-content;
+    width: 300px;
+    justify-content: center;
+    align-self: center;
+    padding: 20px;
+    margin: 10px;
+    position: relative;
+    left: 350px;
+    
+}
+
+.generos{
+    padding: 10px;
+    height: fit-content;
+    width: fit-content;
+    
+}
+
+select{
+    margin-top: 10px;
+}
